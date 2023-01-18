@@ -1,3 +1,7 @@
+#Maxwell Fahlgren
+#github username: fahlg
+#Date: 01/18/2023
+#Description: ask for 5 numbers and find the average of them
 Num_avg = input("please enter 5 numbers: ")
 num_1 = float(input())
 num_2 = float(input())
